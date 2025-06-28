@@ -1,3 +1,6 @@
+* {
+    margin: auto;
+}
 .box {
     height: 48px;
     width: 48px;
@@ -9,5 +12,21 @@
     width: 800px;
     height: 800px;
     border: 5px solid;
-    
+}
+#button {
+    height: 35px;
+    width: 100px;
+    font-family: monospace;
+    display: block;
+    margin-top: 60px;
+    margin-bottom: 5px;
+
+}
+#title {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
 }
